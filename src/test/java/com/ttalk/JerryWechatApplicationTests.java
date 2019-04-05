@@ -1,4 +1,4 @@
-package com.jerrychat.wechat;
+package com.ttalk;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,13 +1,13 @@
-package com.jerrychat.wechat;
+package com.ttalk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication
-public class WechatApplication {
+public class TtalkApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WechatApplication.class, args);
+        SpringApplication.run(TtalkApplication.class, args);
     }
-
 }
