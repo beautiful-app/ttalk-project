@@ -2,3 +2,5 @@
 .idea/
 target/
 src/main/resources/mapper/application-local.properties
+.iml
+*.iml
